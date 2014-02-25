@@ -1,0 +1,6 @@
+README.txt
+out/
+main
+*.sublime-*
+*.tags*
+dct/
